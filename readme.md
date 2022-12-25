@@ -1,0 +1,1 @@
+Bu çalışmada grid(ızgara) yapısı ile responsive layout yaptım.
